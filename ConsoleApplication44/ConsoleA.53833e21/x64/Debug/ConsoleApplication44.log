@@ -1,0 +1,9 @@
+﻿  ConsoleApplication44.cpp
+  Employee.cpp
+  Personal.cpp
+  Создание кода...
+Personal.obj : error LNK2001: неразрешенный внешний символ "public: virtual void __cdecl Personal::calc(void)" (?calc@Personal@@UEAAXXZ).
+Personal.obj : error LNK2001: неразрешенный внешний символ "public: virtual void __cdecl Personal::printInfo(void)const " (?printInfo@Personal@@UEBAXXZ).
+Personal.obj : error LNK2001: неразрешенный внешний символ "public: virtual class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Personal::getPosition(void)const " (?getPosition@Personal@@UEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ).
+Personal.obj : error LNK2001: неразрешенный внешний символ "public: virtual class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Personal::getProjectName(void)const " (?getProjectName@Personal@@UEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ).
+C:\Users\Student\source\repos\ConsoleApplication44\x64\Debug\ConsoleApplication44.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
